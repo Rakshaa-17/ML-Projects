@@ -21,6 +21,8 @@ Monthly charges and contract type have strong correlation with churn Customers w
 
 Model Evaluation: Accuracy, Precision, Recall, F1-score Confusion matrix and ROC curve for performance visualization
 
-⭐Copyright Developed by [Raksha](https://github.com/Rakshaa-17)
+⭐Copyright 
+
+Developed by [Raksha](https://github.com/Rakshaa-17)
 
 Lets connect over [LinkedIm](https://www.linkedin.com/in/rakshamalela)
