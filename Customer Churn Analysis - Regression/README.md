@@ -14,7 +14,7 @@ numpy, pandas – Data manipulation matplotlib, seaborn – Data visualization s
 #### 📊 Exploratory Data Analysis (EDA) ####
 Analyzed customer demographics, service usage, and billing details Identified patterns associated with high churn probability
 
-####📌Key insights ####
+#### 📌Key insights ####
 Monthly charges and contract type have strong correlation with churn Customers with short tenure are more likely to leave Long-term contracts reduce churn likelihood
 
 🤖 Machine Learning Models Used Logistic Regression – For binary churn prediction Linear Regression – Used for exploratory purposes (e.g., analyzing billing trends), not for churn classification
