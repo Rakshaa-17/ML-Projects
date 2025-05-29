@@ -30,7 +30,7 @@ Loaded movie metadata containing titles, genres, keywords, etc.
 - For a given movie, retrieved top N most similar movies
 - Displayed recommendations based on content similarity (e.g., genre, plot keywords)
 
-## 💡 Example Output 
+### 💡 Example Output 
 
 Given the input movie "The Dark Knight" → Recommended:
 Batman Begins
