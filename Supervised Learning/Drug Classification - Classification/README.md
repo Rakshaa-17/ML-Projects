@@ -1,4 +1,4 @@
-# 💊 Drug Classification using Supervised Learning
+# 💊 Drug Classification - Classification
 This project focuses on predicting the most suitable drug to prescribe to a patient based on their medical attributes. By leveraging classification algorithms, the goal is to assist healthcare providers in making informed, data-driven decisions for medication prescription.
 
 ### 🎯 Objective
