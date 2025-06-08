@@ -49,8 +49,10 @@ Additional Steps:
 - Deploy the model using **Flask** or **Streamlit** for interactive web use
 - Enable dynamic user inputs for instant price prediction
 
-### 🧑‍💻 Author
+### 👩‍💻 Author
+Developed by [Raksha](https://github.com/Rakshaa-17)
 
+Let's connect [LinkedIn](https://www.linkedin.com/in/rakshamalela/)
 
 
 
