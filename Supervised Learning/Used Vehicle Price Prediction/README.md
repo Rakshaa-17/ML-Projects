@@ -1,46 +1,56 @@
-## 🏥 Premium Insurance Prediction using Regression Algorithms
-This project aims to predict medical insurance premiums based on personal and health-related attributes such as age, BMI, smoking status, and more. By analyzing historical insurance data, we aim to develop a model that can estimate premium charges accurately, aiding insurers in pricing and risk assessment.
+## Used Vehicle Price Prediction using Regression Algorithms
 
-### 🎯 Objective
-The primary objective is to build regression models that can predict the insurance premium (charges) based on various customer features. Through detailed analysis and model tuning, we aim to improve prediction accuracy and identify key factors that influence insurance costs.
+This project aims to predict the prices of used vehicles based on various features such as vehicle age, mileage, brand, fuel type, and transmission. By analyzing historical vehicle listing data, we build regression models that help estimate a car's value — aiding both buyers and sellers in making informed decisions.
+
+## 🎯 Objective
+
+The primary objective is to develop regression models that accurately predict used vehicle prices based on their specifications and conditions. The project includes data cleaning, feature engineering, visualization, and model tuning to optimize performance.
 
 ### 🧰 Technologies Used
-Language:
+
+**Language:**
 - Python
 
-Libraries:
-
-- numpy, pandas – Data manipulation
-- matplotlib, seaborn – Data visualization
-- scikit-learn – Machine learning and evaluation
+**Libraries:**
+- `numpy`, `pandas` – Data manipulation
+- `matplotlib`, `seaborn` – Data visualization
+- `scikit-learn` – Machine learning and evaluation
 
 ### 📊 Exploratory Data Analysis (EDA)
-Analyzed relationships between customer features and insurance charges
-Visualized distributions and identified skewed data
-Detected strong impact of smoking status, age, and BMI on premium
-Converted categorical variables into numeric format using encoding techniques
 
-### 🌲 Tree Visualization
-Visualized decision paths using tree-based models
-Analyzed feature importance in Random Forest and Gradient Boosting
-Interpreted how smoking, age, and BMI influence predicted charges
+- Investigated relationships between key features (year, mileage, brand, fuel type) and price
+- Checked for missing or inconsistent values and handled them accordingly
+- Encoded categorical variables such as brand, transmission, and fuel type
+- Detected and treated outliers in price and mileage distributions
 
 ### 🔍 Models Used
-Linear Regression – Baseline model
-Lasso & Ridge Regression – Regularization techniques
-Random Forest Regressor – Ensemble model for better accuracy
-Gradient Boosting Regressor – Best-performing model with strong predictive power
+
+- **Linear Regression** – For baseline performance
+- **Decision Tree Regressor** – To handle non-linear patterns
+- **Random Forest Regressor** – For better accuracy through ensemble learning
 
 ### 🧪 Model Evaluation
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-R² Score
 
-Used Grid Search for hyperparameter tuning
-Applied Cross-Validation to improve generalization
+**Metrics Used:**
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+Additional Steps:
+- Performed train-test split for validation
+- Tuned hyperparameters using Grid Search
+- Compared model performance to select the best approach
+
+### 🛠 Future Enhancements
+
+- Integrate **XGBoost** or **LightGBM** for improved performance
+- Add more detailed car condition metrics (e.g., service history, accident records)
+- Deploy the model using **Flask** or **Streamlit** for interactive web use
+- Enable dynamic user inputs for instant price prediction
 
 ### 🧑‍💻 Author
-Developed by [Raksha](https://github.com/Rakshaa-17)
 
-Let's connect [LinkedIn](https://www.linkedin.com/in/rakshamalela/)
+
+
+
