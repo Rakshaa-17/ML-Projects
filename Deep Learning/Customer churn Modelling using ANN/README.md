@@ -7,27 +7,27 @@ This project focuses on predicting customer churn—whether a customer is likely
 - Learn complex, non-linear relationships from the data
 - Support business decision-making in customer retention strategies
 
-## 🧰 Technologies Used
-### Language:
+### 🧰 Technologies Used
+Language:
 Python
 
-### Libraries:
+Libraries:
 - pandas, numpy – Data loading and preprocessing
 - matplotlib, seaborn – Data visualization and EDA
 - scikit-learn – Preprocessing, model evaluation
 - TensorFlow, Keras – Building and training the ANN model
 
-## 📊 Exploratory Data Analysis (EDA)
+### 📊 Exploratory Data Analysis (EDA)
 - Analyzed features such as geography, gender, tenure, balance, number of products, and active membership
 - Checked for data imbalance and skewed distributions
 - Applied Label Encoding and One-Hot Encoding for categorical variables
 - Scaled numerical features using StandardScaler for optimal neural network performance
 
-## 🧠 Model Architecture: Artificial Neural Network (ANN)
-### Layer Type	           Details
- Input Layer	     Accepts 11 numerical/categorical features
- Hidden Layer 1	   Dense layer with ReLU activation
- Hidden Layer 2	   Dense layer with ReLU activation
+### 🧠 Model Architecture: Artificial Neural Network (ANN)
+ Layer Type	           Details
+- Input Layer	      Accepts 11 numerical/categorical features
+- Hidden Layer 1	   Dense layer with ReLU activation
+- Hidden Layer 2	   Dense layer with ReLU activation
  Output Layer	     Dense layer with sigmoid activation
 
 -Optimizer: Adam
@@ -35,12 +35,26 @@ Python
 -Epochs: 100
 -Batch Size: 10
 
-classification
+### 🧪 Model Evaluation
+Metrics Used:
+     - Accuracy
+     - Precision
+     - Recall
+     - F1-Score
+     - Confusion Matrix
 
-## 🔑 Key Insights
+### Techniques:
+- Train-Test Split (80-20)
+- Feature scaling to optimize training
+- Threshold tuning for binary classification
+
+### 🔑 Key Insights
 - Customers with lower tenure, higher balance, and specific geographical locations showed a higher tendency to churn
 - The ANN model was able to capture complex feature interactions better than traditional models
 - Feature scaling significantly improved ANN convergence and performance
 - Model achieved high accuracy and generalization on test data
 
-  
+  ### 🧑‍💻 Author
+Developed by [Raksha](https://github.com/Rakshaa-17)
+
+Let's connect [LinkedIn](https://www.linkedin.com/in/rakshamalela/)
