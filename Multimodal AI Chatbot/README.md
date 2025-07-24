@@ -25,7 +25,7 @@ Feature	Description
 
 ### 🔐 Requirements
 - Python 3.8+
-- OpenAI API Key or access to a vision-capable LLM
+- Google API Key or access to a vision-capable LLM
 - Internet access (for API calls)
 
 ### 🧠 Behind the Scenes
