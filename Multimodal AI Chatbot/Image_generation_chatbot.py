@@ -7,7 +7,7 @@ import base64
 import requests
 
 # Initialize the GenAI client
-client = genai.Client(api_key="AIzaSyBFMpyqJYQN852SmrK3fmViuvbXuUfsUHM")  # Replace with your actual API key or environment variable
+client = genai.Client(api_key="")  # Replace with your actual API key or environment variable
 
 # Streamlit app configuration
 st.set_page_config(page_title="GenAI Chatbot", layout="centered")
