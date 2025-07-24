@@ -17,7 +17,7 @@ Feature	Description
 
 ## 🧪 Technologies Used
 - Gemini Models 
-- DALL·E / Stable Diffusion for image generation and inpainting
+- Stable Diffusion for image generation and inpainting
 - Python
 - Jupyter Notebook
 - PIL / OpenCV for image preprocessing
