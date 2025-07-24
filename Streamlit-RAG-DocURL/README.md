@@ -1,5 +1,5 @@
 ## Streamlit RAG Chatbot for Document and URL-Based QA
-This project is a Streamlit-powered Retrieval-Augmented Generation (RAG) Chatbot designed to answer user queries based on the contents of a PDF or document URL. By leveraging embeddings and vector similarity search, the chatbot retrieves the most relevant information from the document and responds using a language model.
+This project is a Streamlit-powered Retrieval-Augmented Generation (RAG) Chatbot designed to answer user queries based on the contents of a PDF and document URL. By leveraging embeddings and vector similarity search, the chatbot retrieves the most relevant information from the document and responds using a language model.
 
 ### 🚀 Project Features
 - 🔗 Upload a PDF or provide a document URL
