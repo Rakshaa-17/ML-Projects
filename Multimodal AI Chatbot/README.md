@@ -16,7 +16,7 @@ Feature	Description
 - 🤖 Conversational UI	Chat-like interaction using text and images
 
 ## 🧪 Technologies Used
-- OpenAI Vision Models (gpt-4-vision-preview)
+- Gemini Models 
 - DALL·E / Stable Diffusion for image generation and inpainting
 - Python
 - Jupyter Notebook
