@@ -8,14 +8,6 @@ This project is a Streamlit-powered Retrieval-Augmented Generation (RAG) Chatbot
 - 💬 Generates context-aware answers using a language model (e.g., OpenAI GPT)
 - 🌐 Simple and interactive Streamlit web interface
 
- ### 📂 Folder Structure
- Streamlit-RAG-DocURL/
-
-├── RAG_Chatbot.py          # Streamlit app file
-├── requirements.txt        # Python dependencies
-├── sample.pdf              # Example PDF for testing
-└── README.md               # Project documentation
-
 ### 🛠️ Technologies Used
 - Streamlit – for building the interactive web app
 - FAISS – for fast vector similarity search
